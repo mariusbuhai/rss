@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"> 
     <channel>
-            <title>https://buhaimarius.wixsite.com/my-site-2</title>
-            <link>https://github.com/mariusbuhai/rss/blob/main/Rss.xml</link>
-            <description>Naticias falsas sobre infotmatica</description>
+            <title>Noticias falsas sobre infotmatica</title>
+            <link>https://buhaimarius.wixsite.com/my-site-2</link>
+            <description>Algunas noticias falsas sobre infotmatica</description>
             <item>
                 <title>¿Los ordenadores de mesa dejarán de estar obsoletos?</title>
                 <link>https://buhaimarius.wixsite.com/my-site-2/post/los-ordenadores-de-mesa-dejar%C3%A1n-de-estar-obsoletos</link>
