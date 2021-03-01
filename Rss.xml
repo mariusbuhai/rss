@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"> 
     <channel>
-        <item>
-            <title>https://buhaimarius.wixsite.com/my-site-2</title>
-        </item>
+        <link>
+            https://buhaimarius.wixsite.com/my-site-2</title>
+        </link>
         <item>
             <title>https://buhaimarius.wixsite.com/my-site-2/post/los-ordenadores-de-mesa-dejar%C3%A1n-de-estar-obsoletos</title>
         </item>
