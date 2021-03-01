@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"> 
     <channel>
-        <link>
-            https://buhaimarius.wixsite.com/my-site-2</title>
-        </link>
-        <item>
-            <title>https://buhaimarius.wixsite.com/my-site-2/post/los-ordenadores-de-mesa-dejar%C3%A1n-de-estar-obsoletos</title>
-        </item>
-        <item>
-            <title>https://buhaimarius.wixsite.com/my-site-2/post/los-ordenadores-cu%C3%A1nticos-frenan-su-avance</title>
-        </item>
-        <item>
-            <title>https://buhaimarius.wixsite.com/my-site-2/post/photoshop-a%C3%B1ade-una-nueva-herramienta-en-la-%C3%BAltima-actualizaci%C3%B3n</title>
-        </item>
+            <title>https://buhaimarius.wixsite.com/my-site-2</title>
+            <link>https://github.com/mariusbuhai/rss/blob/main/Rss.xml</link>
+            <description>Naticias falsas sobre infotmatica</description>
+            <item>
+                <title>¿Los ordenadores de mesa dejarán de estar obsoletos?</title>
+                <link>https://buhaimarius.wixsite.com/my-site-2/post/los-ordenadores-de-mesa-dejar%C3%A1n-de-estar-obsoletos</link>
+            </item>
+
+            <item>
+                <title>Los ordenadores cuánticos frenan su avance.</title>
+                <link>https://buhaimarius.wixsite.com/my-site-2/post/los-ordenadores-cu%C3%A1nticos-frenan-su-avance</link>
+            </item>
+
+            <item>
+                <title>Photoshop añade una nueva herramienta en la última actualización</title>
+                <link>https://buhaimarius.wixsite.com/my-site-2/post/photoshop-a%C3%B1ade-una-nueva-herramienta-en-la-%C3%BAltima-actualizaci%C3%B3n</link>
+            </item>
+
 
     </channel>
 </rss>
